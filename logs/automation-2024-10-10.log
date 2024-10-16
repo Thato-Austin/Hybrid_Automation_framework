@@ -1,0 +1,83 @@
+03:05:25.221 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\A.M.R Studios\Desktop\Hybrib_Automation_Famework\grouping.xml
+
+03:07:12.278 [main] INFO  testCases.RegistrationTests - *** Starting verify account registration test ***
+03:07:13.457 [main] INFO  testCases.RegistrationTests - Clicked on My account dropdown 
+03:14:19.447 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\A.M.R Studios\Desktop\Hybrib_Automation_Famework\grouping.xml
+
+03:15:08.019 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\A.M.R Studios\Desktop\Hybrib_Automation_Famework\grouping.xml
+
+03:18:15.920 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\A.M.R Studios\Desktop\Hybrib_Automation_Famework\master.xml
+
+03:19:15.744 [main] INFO  testCases.RegistrationTests - *** Starting verify account registration test ***
+03:19:16.177 [main] INFO  testCases.RegistrationTests - Clicked on My account dropdown 
+03:19:35.053 [main] INFO  testCases.RegistrationTests - Clicked on Register link 
+03:19:35.061 [main] INFO  testCases.RegistrationTests - New user entering details... 
+03:19:49.484 [main] INFO  testCases.RegistrationTests - Validating expected message...
+03:19:49.617 [main] INFO  testCases.RegistrationTests - *** Finished verify account registration test ***
+03:36:25.704 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\A.M.R Studios\Desktop\Hybrib_Automation_Famework\master.xml
+
+03:37:11.539 [main] INFO  testCases.RegistrationTests - *** Starting verify account registration test ***
+03:38:36.654 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\A.M.R Studios\Desktop\Hybrib_Automation_Famework\master.xml
+
+03:39:49.429 [main] INFO  testCases.RegistrationTests - *** Starting verify account registration test ***
+03:40:31.401 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\A.M.R Studios\AppData\Local\JetBrains\IdeaIC2023.2\temp-testng-customsuite.xml
+
+03:41:54.262 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\A.M.R Studios\AppData\Local\JetBrains\IdeaIC2023.2\temp-testng-customsuite.xml
+
+03:44:34.770 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\A.M.R Studios\AppData\Local\JetBrains\IdeaIC2023.2\temp-testng-customsuite.xml
+
+03:45:59.519 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\A.M.R Studios\Desktop\Hybrib_Automation_Famework\master.xml
+
+03:48:14.749 [main] INFO  testCases.RegistrationTests - *** Starting verify account registration test ***
+03:50:29.802 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\A.M.R Studios\Desktop\Hybrib_Automation_Famework\master.xml
+
+03:51:00.522 [main] INFO  testCases.RegistrationTests - *** Starting verify account registration test ***
+03:52:49.593 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\A.M.R Studios\Desktop\Hybrib_Automation_Famework\master.xml
+
+03:53:45.612 [main] INFO  testCases.RegistrationTests - *** Starting verify account registration test ***
+03:55:22.917 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\A.M.R Studios\Desktop\Hybrib_Automation_Famework\master.xml
+
+03:56:00.382 [main] INFO  testCases.RegistrationTests - *** Starting verify account registration test ***
+03:58:30.971 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\A.M.R Studios\Desktop\Hybrib_Automation_Famework\master.xml
+
+03:59:18.500 [main] INFO  testCases.RegistrationTests - *** Starting verify account registration test ***
+04:11:59.669 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\A.M.R Studios\Desktop\Hybrib_Automation_Famework\master.xml
+
+04:12:20.453 [main] INFO  testCases.RegistrationTests - *** Starting verify account registration test ***
+04:14:45.189 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\A.M.R Studios\Desktop\Hybrib_Automation_Famework\master.xml
+
+04:16:23.592 [main] INFO  testCases.RegistrationTests - *** Starting verify account registration test ***
+04:16:23.940 [main] INFO  testCases.RegistrationTests - Clicked on My account dropdown 
+04:17:03.697 [main] INFO  testCases.RegistrationTests - Clicked on Register link 
+04:17:03.703 [main] INFO  testCases.RegistrationTests - New user entering details... 
+04:19:16.563 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\A.M.R Studios\Desktop\Hybrib_Automation_Famework\grouping.xml
+
+05:35:54.656 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\A.M.R Studios\Desktop\Hybrib_Automation_Famework\grouping.xml
+
+05:41:36.253 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\A.M.R Studios\Desktop\Hybrib_Automation_Famework\grouping.xml
+
+01:03:08.142 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\A.M.R Studios\Desktop\Hybrib_Automation_Famework\grouping.xml
+
+01:07:31.488 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\A.M.R Studios\Desktop\Hybrib_Automation_Famework\grouping.xml
+

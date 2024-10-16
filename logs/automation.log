@@ -1,0 +1,20 @@
+01:08:08.642 [main] INFO  testCases.LoginTest - *** Starting login test ***
+01:08:14.942 [main] INFO  testCases.LoginTest - *** Finished login test ***
+01:14:02.560 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\A.M.R Studios\Desktop\Hybrib_Automation_Famework\grouping.xml
+
+01:14:41.622 [main] INFO  testCases.RegistrationTests - *** Starting verify account registration test ***
+01:14:41.921 [main] INFO  testCases.RegistrationTests - Clicked on My account dropdown 
+01:14:43.700 [main] INFO  testCases.RegistrationTests - Clicked on Register link 
+01:14:43.706 [main] INFO  testCases.RegistrationTests - New user entering details... 
+01:14:46.996 [main] INFO  testCases.RegistrationTests - Validating expected message...
+01:14:47.169 [main] ERROR testCases.RegistrationTests - Test failed
+01:25:06.090 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\A.M.R Studios\Desktop\Hybrib_Automation_Famework\grouping.xml
+
+01:25:30.256 [main] INFO  testCases.RegistrationTests - *** Starting verify account registration test ***
+01:25:30.587 [main] INFO  testCases.RegistrationTests - Clicked on My account dropdown 
+01:25:32.029 [main] INFO  testCases.RegistrationTests - Clicked on Register link 
+01:25:32.038 [main] INFO  testCases.RegistrationTests - New user entering details... 
+01:25:34.891 [main] INFO  testCases.RegistrationTests - Validating expected message...
+01:25:34.952 [main] ERROR testCases.RegistrationTests - Test failed
